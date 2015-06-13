@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 故事，你听 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 故事，你听 | You Don't Believe]]></title>
   <link href="http://yongjj.github.io/blog/categories/gu-shi-,ni-ting/atom.xml" rel="self"/>
   <link href="http://yongjj.github.io/"/>
-  <updated>2015-06-13T13:56:16+08:00</updated>
+  <updated>2015-06-13T18:37:03+08:00</updated>
   <id>http://yongjj.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yang Jie]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
