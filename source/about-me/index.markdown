@@ -6,4 +6,8 @@ comments: true
 sharing: true
 footer: true
 ---
-我不是一个人么？
+
+
+如果你真的想和我交流，给我发邮件吧！我会认真回复的。
+
+邮箱：yangjieshiguang@163.com
