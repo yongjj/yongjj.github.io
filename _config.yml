@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yongjj.github.io
-title: You Don't Believe
+title: You Don't Believe 
 subtitle: Because I'm lying.
 author: Yang Jie
 simple_search: https://www.baidu.com
@@ -101,7 +101,7 @@ google_analytics_tracking_id:
 facebook_like: false
 
 # duoshuo
-duoshuo_comment: true
+duoshuo_comment: false
 
 # jiashare
 jia_share: true
