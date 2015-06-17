@@ -1,8 +1,0 @@
----
-layout: post
-title: "此刻"
-date: 2015-06-13 13:52:22 +0800
-comments: true
-categories: [故事，你听] 
----
-此刻，我是如此的想你。
